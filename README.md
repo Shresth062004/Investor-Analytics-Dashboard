@@ -15,6 +15,6 @@ This Tableau dashboard provides an overview of employee data, including active e
 
 - **Tableau Desktop** – For creating the interactive dashboard
 - **Mapbox** – For custom map rendering (if used)
-- **Excel / CSV** – As a data source [Uploading sales_data_sample.csv…]()
+- **Excel / CSV** – As a data source
 
 
